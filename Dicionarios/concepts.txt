@@ -1,0 +1,15 @@
+1-> how to declare 
+2-> how to add elements
+3-> how to read elements
+4-> how to generate lists
+5-> how to iterate
+6-> how to remove items
+7-> how dict attribution works
+
+1-> dictionary = {} or dictionary = dict()
+2-> dictionary[key] = value
+3-> dictionary[key] or dictionary.get(key) // the first if doesnt find throws an exeception whereas the other return None
+4-> dictionary.keys() or .values() or .items()... each of them generates a list through their corresponding name
+5-> generate a list and iterate on it with for o while (e.g: for keys in dictionary.keys)
+6-> del dictionary[key]
+7-> if we pass a dict to a variable, actually we pass its reference, so changes in the variable will affect the original dict, so we must use the function copy
