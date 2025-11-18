@@ -1,2 +1,0 @@
-git status
--> it outputs a feedback of how things are organized in git, what has changed, what has changed and its ready for commit, not ready for commit, so it offers us the visualization to prevent mistakes

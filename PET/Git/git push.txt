@@ -1,6 +1,0 @@
-git push
-
-their purpose is to send everything to the cloud from the last time it has been called to the reference I called it, changes are made locally, they are designed for this other behavior
-
-problem
-there could be a situation that I made changes, commited them and now im ready to push, but in the meantime some already pushed something to the same branch, it would be bad if git overwqrite any of them cause both are good, the ideal way is to merge them, so git forces us to merge, resolve conflicts and only then I can push 

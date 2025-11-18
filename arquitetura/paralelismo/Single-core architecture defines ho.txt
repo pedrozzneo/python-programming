@@ -1,4 +1,0 @@
-Single-core architecture: defines how an individual core should be in a set of cores (they could be different from each other), meaning their architecture: how they are built, how they use their resources in a flux of use (processing instructions) 
-
--> so for example, nowadays on intel, we have P-cores and E-cores (performance and efficiency)
--> now they are coming up with AI cores, with different architecture for this matter

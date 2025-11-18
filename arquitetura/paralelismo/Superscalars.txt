@@ -1,1 +1,0 @@
-superscalars represent processors that divide the tasks through BARE processes, so they take on Thread at a time and rip it across its cores note: the instructions could be executed at the same processing stage as they happen in different cpus

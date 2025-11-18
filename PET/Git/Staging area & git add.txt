@@ -1,8 +1,0 @@
-Definition of staging area/git add
--> it represents a middle area in git between unsaved changes and the commit, its useful along with git status cause I can visualize better what will be saved when executing the command git commit
-
-Usage:
--> after visualizing what has changed with git status, use the command git add {name_of_changed_file} in order to transfer them to that middle area so you can iteratively check with git status
-
-Tip:
--> you can add multiple files in a single shot, just separate them with blank spaces and write their names, such as: git add file1.py file2.py file3.py

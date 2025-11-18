@@ -1,4 +1,0 @@
-Git Remotes
-
-Definition
--> they are an online backup of your commits, so if you lose them locally you can retrieve from them, you can share with other developers as well allowing them to contribute to the project, its a way to connect everyone and also have a backup of the content elsewhere, now we can share and see what others have made

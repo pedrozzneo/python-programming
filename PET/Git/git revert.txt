@@ -1,3 +1,0 @@
-git revert
-
--> git reset {reference} moves the pointer creates a new commit that has the same content as the reference, so I dont lose history

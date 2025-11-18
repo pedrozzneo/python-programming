@@ -1,3 +1,0 @@
-interactive rebase
-
--> using git rebase -i {reference} deletes everything from the current branch pointer to reference but allow you to increment some of the deleted commits from the reference in the order and quantity you want

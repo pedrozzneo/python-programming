@@ -1,7 +1,0 @@
-git rebase
-
-definition
--> it basically does what merge does, but it cleans up my history, when I rebase, the target branch merges with the current one, but after that it deletes the current branch's commit and move its pointer to the new commit (merge on target) as we have everything there, 
-
-example
--> I created a branch to fix a bug called bugfix, I did that so I can be more organized and free to "break" the program if i make mistakes I can comeback, lets suppose I succeeded and merged things in a new commit, don't you agree there is no necessity to go back to the specific branch bugfix cause it already served its purpose? the fix is already in main, keeping that saved would be a waste

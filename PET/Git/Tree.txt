@@ -1,4 +1,0 @@
-Tree
-
-Definition
--> its a representation of what has been committed that tracks the "path" of the commit, its origins, its destination. We use the term parent to refer to where it came from, and the term child to refer where it went to

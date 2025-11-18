@@ -1,8 +1,0 @@
-Definition of commit
--> Its like a snapshot, a record of how things are in the moment I executed the commit, along with it, we can store other info such as the author and date.
-
-Structure
--> a commit saves the delta, in other words, what have changed, so instead of saving x and x + delta it just saves delta, saving x in storage, that means commits are lightweight, so we do not need to worry about making a lot of them
-
-Usage
--> When you are ready to save, meaning you've already checked everything is correct with git add and git status, its time to save, so you enter the command "git commit"

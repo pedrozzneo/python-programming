@@ -1,1 +1,0 @@
-saying that n cores of x ghz has the same Processing as a single core with n.x ghz is usually wrong cause depends on how parallel the tasks/ threads could be, sometimes one thing depends on another as well, so there are many small things that could interfere reaching this ideal workflow

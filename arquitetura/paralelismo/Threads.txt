@@ -1,1 +1,0 @@
-threads: minimal and meaningful chunk of data and instricutions

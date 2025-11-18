@@ -1,6 +1,0 @@
-git pull
-
--> consists of a git fetch to update the remote branch, followed by a git merge to update our local branch
-
-Arguments:
---rebase: makes a rebase, so its basically a merge but deleting the merging branch

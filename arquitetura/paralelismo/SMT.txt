@@ -1,1 +1,0 @@
-SMT stands for simultaneous multi threading: its similar to superscalars but now instead of ripping a single thread to the cpus, each cpu is responbile for dealing with a different thread, so thats more a matter of architecture than raw performance

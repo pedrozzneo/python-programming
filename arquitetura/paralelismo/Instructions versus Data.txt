@@ -1,6 +1,0 @@
-| Tipo     | Significado                     | O que acontece                                              | Exemplo prático                           |
-| :------- | :------------------------------ | :---------------------------------------------------------- | :---------------------------------------- |
-| **SISD** | Uma instrução, um dado          | Um núcleo soma os elementos **um a um**                     | Processador single-core                   |
-| **SIMD** | Uma instrução, vários dados     | Todos os núcleos somam partes diferentes **ao mesmo tempo** | GPU / instruções AVX                      |
-| **MISD** | Várias instruções, um dado      | O mesmo número é processado de **formas diferentes**        | Sistemas de redundância                   |
-| **MIMD** | Várias instruções, vários dados | Cada núcleo faz **tarefas diferentes**                      | Processador multicore / servidor paralelo |

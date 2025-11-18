@@ -1,5 +1,0 @@
--> Importance: In a multicore processor its so important that the CPUs have a shared memory cause if they didn't, I would separate threads by who created them, and that would give me many situations of different percentages of whats being executed, and I would be blocked to share the tasks because I would only be restricted to the creator, that is awful in parallel programming: performance, reliability, balance...
-
--> Advantages: having dedicated tasks share improve their rate of success for their specifical porpoise, so for example, the cache is responsible for having consistency by not letting a CPU take the same piece of information when another is using, cause its not there, this management works better in this architecture, that phenomenon is called constructive interference
-
--> I could assign exactly how much a core need to work, instead of fixed amounts for each, so if one core needs more than another, give it to it (when possible for both of course), thats important because of levels of memory locality

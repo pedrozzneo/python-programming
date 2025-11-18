@@ -1,4 +1,0 @@
-git fetch
-
-Definition
--> it fetches data, so i can get updates from a remote branch and see if things have changed, the tree gets synced with what the remote repository looks like at that moment, but note it doesn't move our local pointers just the remote ones, 

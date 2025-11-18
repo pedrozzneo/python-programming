@@ -1,4 +1,0 @@
-memory locality: represents how "close" or "far apart" are my working data set, for example, a loop repeats the same data set, so I could organize them in a way they are next to each other and keep working with this limited space, whereas at the same time, the same amount of instrucions work with data from very different sources, so to have the same speed I would have to allocate all this data set onto cache, the first doenst need much space, the possibilities are small, the others are big
-
-
-high locality is good, low locality is bad (too many possibilities)

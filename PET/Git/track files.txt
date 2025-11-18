@@ -1,4 +1,0 @@
-track files
-
-Definition
--> when I start tracking files, the commit will present another branch usually called o/{name_of_branch} that will track the actual branch {name_of_branch}... basically that's it, notice that its possible to move to this remote branch, but it will be detached, its purpose is just to follow the {name_of_branch}

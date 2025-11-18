@@ -1,3 +1,0 @@
-git fakeTeamwork
-
--> it essentially commits something new on the remote branch, as arguments I can add 2, the branch and the quantity of commits
